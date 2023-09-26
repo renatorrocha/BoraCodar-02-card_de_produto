@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# #BoraCodar - Challenge 2 - Product Card
 
-## Getting Started
+This is a solution to the [Product Card](https://www.rocketseat.com.br/boracodar/desafios-anteriores/um-card-de-produto-desafio-02).
+## Table of contents
 
-First, run the development server:
+- [#BoraCodar - Challenge 2 - Product Card](#boracodar---challenge-2---product-card)
+  - [Table of contents](#table-of-contents)
+    - [The Challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+    - [Built with](#built-with)
+  - [Author](#author)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### The Challenge
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Users should be able to:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
+- View an animated image of the product, by clicking in the 360 button
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Screenshot
 
-## Learn More
+![Screenshot of the project](Screenshot.png)
 
-To learn more about Next.js, take a look at the following resources:
+### Links
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Solution URL: [Rocketseat](https://www.rocketseat.com.br/boracodar/desafios-anteriores/um-card-de-produto-desafio-02)
+- Live Site URL: [Vercel](https://bora-codar-02-card-de-produto.vercel.app/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Built with
 
-## Deploy on Vercel
+- Semantic HTML5 markup
+- Flexbox
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/docs) - React framework
+- [Tailwindcss](https://tailwindcss.com/) - Css framework
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Author
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Linkedin - [Renato Rocha](https://www.linkedin.com/in/renato-rrodrigues/)
+- Github - [@renatorrocha](https://github.com/renatorrocha)
+
