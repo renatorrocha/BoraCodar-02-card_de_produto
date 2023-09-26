@@ -3,7 +3,6 @@
 This is a solution to the [Product Card](https://www.rocketseat.com.br/boracodar/desafios-anteriores/um-card-de-produto-desafio-02).
 ## Table of contents
 
-- [#BoraCodar - Challenge 2 - Product Card](#boracodar---challenge-2---product-card)
   - [Table of contents](#table-of-contents)
     - [The Challenge](#the-challenge)
     - [Screenshot](#screenshot)
