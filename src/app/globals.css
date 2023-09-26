@@ -7,6 +7,6 @@
   @apply bg-pink_rose
 }
 
-p {
+p, button {
   @apply text-light_purple
 }
